@@ -14,7 +14,7 @@ A simple console-based calculator built with Java that supports basic arithmetic
 - IntelliJ IDEA 
 - Command Line (Terminal)
 
-## How to Run 🔧
+## How to Run 
 
 1. Clone the repository:
    ```bash
